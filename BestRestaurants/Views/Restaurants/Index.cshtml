@@ -1,0 +1,20 @@
+@{
+  Layout = "_Layout";
+}
+
+@using BestRestaurants.Models;
+
+<h1>Restaurants</h1>
+
+@if (@Model.Count == 0)
+{
+  <h3>No restaurants </h3>
+}
+
+@foreach (Restaurant restaurant in Model)
+{
+  <h3>@restaurant.Name</h3>
+  <ul>
+    <li>@restaurant.Description</li>
+  </ul>
+}
