@@ -1,6 +1,6 @@
 # Best Restaurants
 
-#### By _**Branden Clauson and Patrick Dolan**_
+#### By _**Branden Clauson, Marni Sucher and Patrick Dolan**_
 
 #### _A website where the user can add their favorite restaurants based on the type of cuisine offered._
 
@@ -61,4 +61,4 @@ Let me know if you run into any issues or have questions, ideas or concerns:
 
 _MIT_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2022_ _Branden Clauson, Marni Sucher and Patrick Dolan_
